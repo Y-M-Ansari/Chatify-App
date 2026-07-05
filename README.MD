@@ -1,5 +1,14 @@
 <h1 align="center">✨ Full-Stack Chat App with Auth & Emails ✨</h1>
 
+## 🚀 Live Demo
+
+**[Visit the Live App](https://chatify-appy.netlify.app)**
+
+- **Frontend:** https://chatify-appy.netlify.app
+- **Backend API:** https://chatify-app-p0ox.onrender.com
+
+---
+
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
